@@ -9,5 +9,6 @@ sub()
 printf("Subtraction"
 }
 multi();
+division();
 }
 

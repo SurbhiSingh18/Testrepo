@@ -6,5 +6,6 @@ printf("Addition");
 }
 sub();
 multi();
+division();
 }
 
